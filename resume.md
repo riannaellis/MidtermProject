@@ -28,3 +28,5 @@
  ### **Awards and Honors**
  * _Univeristy of Missouri Dean's List_
  * _Recipient of the 2021 Missouri Seal of Biliteracy in Spanish_
+
+Click [here](README.md) to return to the homepage.
