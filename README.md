@@ -19,4 +19,4 @@
 * A block of code
 
 ### Resume
-Here is a link to my resume:
+Click [here](resume.md) for a link to my resume.
