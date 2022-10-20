@@ -18,5 +18,5 @@
 * Some text that it italicized
 * A block of code
 
-### Resume
+## Resume
 Click [here](resume.md) for a link to my resume.
