@@ -25,6 +25,7 @@ Click [here](codeblock.md) to see my code block.
 Click [here](resume.md) to see my resume.
 
 ## About Me
-Click [here](aboutme.md) to learn all about me!
+Click [here](aboutme.md) to learn all about me.
 
-## 
+## Bucket List
+Click [here](bucketlist.md) to read my bucket list.
