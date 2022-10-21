@@ -10,7 +10,7 @@
   Fennec foxes are found in the deserts of Northern Africa. They are in the "least concerned" 
   category of endangerment. Their favorite foods are insects, small mammals, and birds. [Read more here.](https://en.wikipedia.org/wiki/Fennec_fox)
   
-3. **Amur Leopards**. 
+3. **Amur Leopards**   
   Amur leopards inhabit southeastern Russia and northern China. They are critically endangered, 
   with only around 110 leopards as of 2021. Their favorite foods are deer, boar, and small mammals.
   [Read more here.](https://en.wikipedia.org/wiki/Amur_leopard)
