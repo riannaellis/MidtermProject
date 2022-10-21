@@ -5,7 +5,7 @@
 **Place of Birth:** Kansas City, MO  
 **Year in School:** Sophomore  
 **Major:** Information Technology and Linguistics  
-**Minot:** Spanish  
+**Minor:** Spanish  
 
 ### My Favorite Foods:
 1. Pho
