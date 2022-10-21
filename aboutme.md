@@ -29,3 +29,5 @@ weather was super beautiful, and I loved seeing all of the plants. There was a
 path that led us downhill, which meant that when we reached the bottom and looked  
 up, we could only see nature around us instead of the city. It was a super unique,  
 immersive experience that I will never forget!
+
+Click [here](README.md) to go back to the homepage.
