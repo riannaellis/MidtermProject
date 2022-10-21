@@ -18,5 +18,8 @@
 * Some text that it italicized
 * A block of code
 
+## Link to Code Block
+Click [here](fizzbuzz.html) to see my code block.
+
 ## Resume
-Click [here](resume.md) for a link to my resume.
+Click [here](resume.md) to see my resume.
