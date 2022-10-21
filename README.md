@@ -1,4 +1,4 @@
-# MidtermProject
+# Midterm Project
 
 ## Welcome to my Midterm Project!
 
