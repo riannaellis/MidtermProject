@@ -18,7 +18,7 @@
 * Some text that it italicized
 * A block of code
 
-## Link to Code Block
+## Code Block
 Click [here](codeblock.md) to see my code block.
 
 ## Resume
