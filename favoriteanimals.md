@@ -13,6 +13,6 @@
 3. **Amur Leopards**. 
   Amur leopards inhabit southeastern Russia and northern China. They are critically endangered, 
   with only around 110 leopards as of 2021. Their favorite foods are deer, boar, and small mammals.
-  [Read more here.](https://en.wikipedia.org/wiki/Amur_leopard))
+  [Read more here.](https://en.wikipedia.org/wiki/Amur_leopard)
   
   Click [here](README.md) to return to the homepage.
