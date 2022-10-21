@@ -7,7 +7,7 @@
   bamboo shoots, leaves, fruits, and blossoms. [Read more here.](https://en.wikipedia.org/wiki/Red_panda)
   
 2. **Fennec Foxes**   
-  Fennec foxes are found in the deserts of Northern Africa. They are in the "least concerned" 
+  Fennec foxes are found in the deserts of northern Africa. They are in the "least concerned" 
   category of endangerment. Their favorite foods are insects, small mammals, and birds. [Read more here.](https://en.wikipedia.org/wiki/Fennec_fox)
   
 3. **Amur Leopards**   
