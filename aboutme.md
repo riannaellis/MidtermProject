@@ -30,4 +30,4 @@ path that led us downhill, which meant that when we reached the bottom and looke
 up, we could only see nature around us instead of the city. It was a super unique,  
 immersive experience that I will never forget!
 
-Click [here](README.md) to go back to the homepage.
+Click [here](README.md) to return to the homepage.
