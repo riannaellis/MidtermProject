@@ -10,7 +10,7 @@
   I want to visit Tokyo to see the cherry blossom trees.
   ![Cherry Blossom Trees](https://resources.matcha-jp.com/resize/720x2000/2022/03/25-124464.webp)
 
-3. _Saigon, Vietnam_
+3. _Saigon, Vietnam_  
    In Saigon, I want to eat a lot of delicious food.
    ![Food Vendors](https://www.expatolife.com/wp-content/uploads/2019/12/Bot-chien-Vietnamese-food.jpg)
    
