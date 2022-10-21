@@ -29,3 +29,6 @@ Click [here](aboutme.md) to learn all about me.
 
 ## Bucket List
 Click [here](bucketlist.md) to read my bucket list.
+
+## Favorite Animals
+Click [here](favoriteanimals.md) to learn about my favorite animals.
