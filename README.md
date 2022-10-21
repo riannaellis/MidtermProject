@@ -23,3 +23,6 @@ Click [here](fizzbuzz.html) to see my code block.
 
 ## Resume
 Click [here](resume.md) to see my resume.
+
+## About Me
+Click [here] to learn all about me!
