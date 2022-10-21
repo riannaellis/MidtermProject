@@ -19,7 +19,7 @@
 * A block of code
 
 ## Link to Code Block
-Click [here](fizzbuzz.html) to see my code block.
+Click [here](codeblock.md) to see my code block.
 
 ## Resume
 Click [here](resume.md) to see my resume.
